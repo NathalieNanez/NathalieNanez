@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Nathalie Nanez 👋</h1>
+<h1 align="center">Hi there, I'm Nathalie Ñañez Zuleta 👋</h1>
 <h3 align="center">A Data Scientist and ML/AI Engineer passionate about building intelligent, data-driven solutions.</h3>
 
 <p align="center">
